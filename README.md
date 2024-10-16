@@ -48,3 +48,5 @@ Conclusion
 The analysis revealed significant insights, such as the dominance of the United States in Netflix content production,
 the exponential growth of Netflix content since 2000, and the prevalence of TV-MA-rated titles. 
 This dashboard serves as a powerful tool for understanding the composition of Netflix’s catalog and its global reach.
+![image](https://github.com/user-attachments/assets/4f81b1d1-9f41-4dfb-80bf-e5530d2dc721)
+
